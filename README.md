@@ -1,4 +1,4 @@
-# NeoMood
+# NeoMode
 
 ✨ Features
 - Suggest songs based on mood (happy, sad, energetic, relax)
